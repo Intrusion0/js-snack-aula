@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.result {
+    padding-right: 20px;
+}
+
+#bike {
+    margin: 30px;
+}
